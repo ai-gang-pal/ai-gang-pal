@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jarence
+# 👋 Hi, I'm
 
 ## 🚀 Professional Software Engineer
 
@@ -67,14 +67,6 @@ I am a results-driven Software Engineer with a passion for building scalable, hi
 - 🥇 Delivered high-impact production systems
 - 🚀 Improved application performance by X%
 - 📚 Continuous learner in modern software practices
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/jarence-coronel
-- Portfolio: https://yourportfolio.com
-- Email: jarence.coronel@outlook.com
 
 ---
 
