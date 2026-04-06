@@ -13,6 +13,7 @@ I am a results-driven Software Engineer with a passion for building scalable, hi
 - 📈 Passionate about performance optimization and clean code
 - 🤝 Collaborative team player with strong communication skills
 - 🌍 Always learning and adapting to new technologies
+- 🌍 Always learning and adapting to new technologies
 
 ---
 
